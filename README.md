@@ -1,2 +1,2 @@
 # MyDesignWorks
-This repository is used to store some of my design works
+This rpository is used to store some of my graphic design work. They were created at different times so they have different styles. As you will have noticed there is no license for this project, which means you can only fork the project and are not allowed to distribute it without my permission. If you do have a soft spot for these gadgets and would really like to use them, please contact me. In most cases I would be happy for someone to use them in the right place!
